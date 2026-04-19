@@ -54,7 +54,7 @@ The dataset includes weather-related features such as:
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-username/rain-prediction-ml.git
+   git clone https://github.com/AMINACHATTHA/rain_prediction_model_using_ml
 
 2. Navigate to the project folder:
    cd rain-prediction-ml
